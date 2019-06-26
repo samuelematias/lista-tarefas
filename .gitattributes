@@ -5,3 +5,4 @@
 *.m linguist-detectable=false
 *.mm linguist-detectable=false
 *.M linguist-detectable=false
+*.rb linguist-detectable=false
