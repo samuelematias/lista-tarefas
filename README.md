@@ -22,7 +22,7 @@
 
 Este aplicativo foi desenvolvido no Curso da Udemy [Criação de Apps Android e iOS com Flutter](https://www.udemy.com/curso-completo-flutter-app-android-ios/)
 por [Daniel Ciolfi](https://www.udemy.com/user/daniel-henrique-ciolfi/). <br/>
-Nessa aplicação foi desenvolvido uma simples lista de tarefas, que contem a opção de marcar se a tarefa foi feita ou não, e ordenação das tarefas por _pullRefresh_, organizando das não feitas para as feitas. Os dados estão sendo salvos no asyncStorage.
+Nessa aplicação foi desenvolvido uma simples lista de tarefas, que contem a opção de marcar se a tarefa foi feita ou não, e ordenação das tarefas por _pullToRefresh_, organizando das não feitas para as feitas. Os dados estão sendo salvos no asyncStorage.
 
 <br/>
 
@@ -37,7 +37,7 @@ Nessa aplicação foi desenvolvido uma simples lista de tarefas, que contem a op
 
 ## About me @Dev
 
-Follow me on Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
+Me segue no Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
 
 <a href="https://twitter.com/samuelmataraso" target="_blank">
 <img src="https://twitter.com/samuelmataraso/profile_image?size=original" height="100" /></a>
